@@ -16,4 +16,4 @@
 ЛАБОРАТОРНАЯ РАБОТА №9. ПОСТРОЕНИЕ ДИАГРАММЫ РАЗВЁРТЫВАНИЯ	<br>
   
   
-  ![Image alt](https://github.com/keiby1/LR_Palmov/raw/master/Диаграммы/Д. Деятельности.png)
+  ![Изображение](https://github.com/keiby1/LR_Palmov/raw/master/Диаграммы/Д.Деятельности.png)
