@@ -15,5 +15,8 @@
 ЛАБОРАТОРНАЯ РАБОТА №8. ПОСТРОЕНИЕ ДИАГРАММЫ КОМПОНЕНТОВ	<br>
 ЛАБОРАТОРНАЯ РАБОТА №9. ПОСТРОЕНИЕ ДИАГРАММЫ РАЗВЁРТЫВАНИЯ	<br>
   
-  
+  Несколько диаграмм из проекта:
   ![Изображение](https://github.com/keiby1/LR_Palmov/raw/master/Диаграммы/Д.Компонентов.png)
+    ![Изображение](https://github.com/keiby1/LR_Palmov/raw/master/Диаграммы/Д.КонечногоАвтомата.png)
+      ![Изображение](https://github.com/keiby1/LR_Palmov/raw/master/Диаграммы/Д.Развертывания.png)
+        ![Изображение](https://github.com/keiby1/LR_Palmov/raw/master/Диаграммы/SequenceDiagramЗвонки.png)
